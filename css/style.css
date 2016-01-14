@@ -282,7 +282,7 @@ font-weight: 700;
 	padding: 0 13px;
 	font-weight: 400;
 	height: 35px;
-	width: 70px;
+	width: 60px;
 	display: inline-block;
 	margin-right: 3px;
 	font-size: 24px;
@@ -472,8 +472,7 @@ left: calc(50% - 110px);
 
 /* ================ ScreenShots Section ================ */
 #section-screenshots {
-	background-color: #f9f9f9;
-	color: #fff;
+	background-color: #DADFE1;
 }
 
 .container.screenshots {
@@ -501,7 +500,7 @@ left: calc(50% - 110px);
 
 .photo-box{
 	position: relative;
-	overflow: scroll;
+	overflow: hidden;
 }
 
 .photo-box img {
@@ -546,7 +545,7 @@ left: calc(50% - 110px);
     border-width: 0 130px 130px 0;
     right: 0;
     bottom: 0;
-    overflow: scroll;
+    overflow: hidden;
     position: absolute;
     -moz-transform: rotate(-90deg) translatex(-40px) translatey(40px);
     -ms-transform: rotate(-90deg) translatex(-40px) translatey(40px);
