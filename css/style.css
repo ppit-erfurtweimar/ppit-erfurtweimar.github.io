@@ -473,6 +473,7 @@ left: calc(50% - 110px);
 /* ================ ScreenShots Section ================ */
 #section-screenshots {
 	background-color: #f9f9f9;
+	color: #fff;
 }
 
 .container.screenshots {
@@ -500,7 +501,7 @@ left: calc(50% - 110px);
 
 .photo-box{
 	position: relative;
-	overflow: auto;
+	overflow: scroll;
 }
 
 .photo-box img {
@@ -545,7 +546,7 @@ left: calc(50% - 110px);
     border-width: 0 130px 130px 0;
     right: 0;
     bottom: 0;
-    overflow: auto;
+    overflow: scroll;
     position: absolute;
     -moz-transform: rotate(-90deg) translatex(-40px) translatey(40px);
     -ms-transform: rotate(-90deg) translatex(-40px) translatey(40px);
@@ -578,7 +579,7 @@ left: calc(50% - 110px);
 }
 
 .photo-zoom a:hover {
-	color:#ccc;
+	color: #ccc;
 }
 
 
@@ -624,7 +625,7 @@ left: calc(50% - 110px);
 /* ------------- Single Project ------------- */
 #portfolio-load {
 	display: none;
-	position:relative;
+	position: relative;
 	left: 105%;
 	min-height: 400px;
 }
