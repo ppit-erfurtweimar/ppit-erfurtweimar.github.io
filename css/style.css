@@ -475,6 +475,11 @@ left: calc(50% - 110px);
 	background-color: #DADFE1;
 }
 
+.section-title h3, 
+.section-title h4 {
+	color: #22313F;
+}
+
 .container.screenshots {
 	padding-top: 120px;
 	padding-bottom: 96px;
@@ -649,7 +654,7 @@ left: calc(50% - 110px);
 .project-details .details-list {}
 
 .project-details .details-list li {
-	color:#e5e5e5;
+	color: #22313F;
 	margin-bottom: 4px;
 }
 
