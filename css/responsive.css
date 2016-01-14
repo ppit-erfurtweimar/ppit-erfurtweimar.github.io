@@ -59,7 +59,7 @@
 	}
 
 	.single-feature .feature-text {
-		display:none;
+		display: none;
 	}
 
 	
@@ -75,7 +75,7 @@
 		margin-left: -16px;
 		margin-right: -16px;
 		background: #222;
-		overflow-y:scroll;
+		overflow-y: auto;
 		max-height: 200px;
 	}
 
@@ -102,7 +102,7 @@
 	}
 
 	.single-feature .feature-text {
-		display:none;
+		display: none;
 	}
 
 	/* services */
@@ -189,7 +189,7 @@
 
 	/* Steps */
 	.step-details .step-description {
-		text-align:justify;
+		text-align: justify;
 	}
 
 	.sub-steps {
