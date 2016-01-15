@@ -2,4 +2,6 @@ petunjuk buat format photo di gallery
 400*300 .jpg
 
 petunjuk buat format photo di slide background
-1400*... .jpg
+1400*934 --	bg-1 --
+1400*891 -- bg-2 --
+1400*934 -- bg-3 --
