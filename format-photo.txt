@@ -1,0 +1,5 @@
+petunjuk buat format photo di gallery
+400*300 .jpg
+
+petunjuk buat format photo di slide background
+1400*... .jpg
