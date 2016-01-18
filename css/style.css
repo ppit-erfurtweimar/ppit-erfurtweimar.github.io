@@ -351,7 +351,7 @@ left: calc(50% - 110px);
 
 .intro-message {
 	font-size: 20px;
-	line-height: 1.4;
+	line-height: 0.3;
 	margin-bottom: 48px;
 	color: #fff;
 }
