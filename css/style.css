@@ -172,7 +172,7 @@ font-weight: 700;
 }
 
 .section-title h3, .section-title h4 {
-	color: #F4F4F4;
+	color: #E74C3C;
 	border-top: 1px solid;
 	border-bottom: 1px solid;
 	display: inline-block;
@@ -358,15 +358,15 @@ left: calc(50% - 110px);
 
 
 /* ================ Features Section ================ */
-#section-feature {
+#gallery {
 	background-color: #f9f9f9;
 }
 
-#section-feature .section-title h3{
+#gallery .section-title h3{
 	color: #22313F;
 }
 
-#section-feature .section-title h4{
+#gallery .section-title h4{
 	color: #22313F;
 }
 
@@ -449,7 +449,7 @@ left: calc(50% - 110px);
 
 
 /* ================ Services Section ================ */
-#section-services {
+#about {
 	position: relative;
 	background-color: #333333;
 	color: #e5e5e5;
@@ -479,7 +479,7 @@ left: calc(50% - 110px);
 }
 
 /* ================ ScreenShots Section ================ */
-#section-screenshots {
+#kegiatan {
 	background-color: #DADFE1;
 }
 
